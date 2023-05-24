@@ -1,3 +1,7 @@
+* {
+  margin: 0px;
+}
+
 .App {
   height: 100vh;
   background-color: #85ffbd;
@@ -11,6 +15,6 @@
 .hello {
   font-size: xx-large;
   font-weight: bold;
-  color:darkolivegreen;
+  color: darkolivegreen;
   font-family: Arial, Helvetica, sans-serif;
 }
